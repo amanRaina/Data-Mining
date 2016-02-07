@@ -1,0 +1,3 @@
+Frequent Item set of size 1baby-powderbeerbreaddetergentdiapermilkumbrella
+Fequent Items Sets of Size 2baby-powder,breaddetergent,breaddiaper,baby-powderdiaper,beerdiaper,breaddiaper,detergentdiaper,milkdiaper,umbrellamilk,baby-powdermilk,breadumbrella,baby-powderumbrella,breadumbrella,milk
+Fequent Items Sets of Size 3diaper,baby-powder,breaddiaper,detergent,breaddiaper,umbrella,baby-powderdiaper,umbrella,breaddiaper,umbrella,milk
